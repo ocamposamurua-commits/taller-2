@@ -6,6 +6,10 @@ public class Variables {
         int cantidad = 10;
         int numero = 25;
 
+        double precio = 2.000;
+        double altura = 1.80;
+        double hora = 2.30;
+
 
 
     }
