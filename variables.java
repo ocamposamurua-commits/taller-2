@@ -14,6 +14,9 @@ public class Variables {
         float peso = 61.0f;
         float distancia = 5.7f;
 
+        long poblacion = 52000000L;
+        long dinero = 1500000000L;
+
 
 
     }
