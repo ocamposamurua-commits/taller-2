@@ -28,6 +28,12 @@ public class Variables {
         String ciudad = "Medellin";
         String carrera = "Ingenieria de Sistemas e Informatica";
 
+        edad = cantidad;
+        numero = edad;
+        precio = hora;
+        altura = precio;
+        nombre = ciudad;
+
 
 
     }
