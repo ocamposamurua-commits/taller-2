@@ -17,6 +17,9 @@ public class Variables {
         long poblacion = 52000000L;
         long dinero = 1500000000L;
 
+        boolean estudiante = true;
+        boolean profesor = false;
+
 
 
     }
