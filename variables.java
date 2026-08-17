@@ -10,6 +10,10 @@ public class Variables {
         double altura = 1.80;
         double hora = 2.30;
 
+        float temperatura = 36.5f;
+        float peso = 61.0f;
+        float distancia = 5.7f;
+
 
 
     }
