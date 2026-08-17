@@ -24,6 +24,10 @@ public class Variables {
         char genero = 'M';
         char grado = 'A';
 
+        String nombre = "Samuel";
+        String ciudad = "Medellin";
+        String carrera = "Ingenieria de Sistemas e Informatica";
+
 
 
     }
