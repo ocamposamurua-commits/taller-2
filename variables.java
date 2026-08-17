@@ -20,6 +20,10 @@ public class Variables {
         boolean estudiante = true;
         boolean profesor = false;
 
+        char inicial = 'S';
+        char genero = 'M';
+        char grado = 'A';
+
 
 
     }
