@@ -29,7 +29,7 @@ git config --global user.email "drobinsonhernandez@gmail.com"
 
 # ¿Cómo renombrar o modificar commits anteriores?
    # Modificar el último commit realizado
-   
+
   - Para cambiar solo el mensaje:
     ```bash
     git commit --amend -m "Nuevo mensaje del commit"
@@ -43,3 +43,8 @@ git config --global user.email "drobinsonhernandez@gmail.com"
      ```bash
     git rebase -i HEAD~N
     ```
+## Punto 8: Uso de f, L y comillas simples en Java
+
+- **La `f`:** Java asume que los decimales son `double`. Si tu variable es `float`, hay que poner la `f` al final del número para indicarle que lo trate como `float`, o marcará error.
+- **La `L`:** Java asume que los enteros son `int`, que tiene un límite. Si tu variable es `long` y el número es muy grande, hay que ponerle la `L` al final para que Java lo trate como `long`.
+- **Las comillas simples `''`:** Se usan para un solo carácter (`char`). Si usas comillas dobles (`""`), Java lo toma como `String`, que es un tipo distinto, y marca error.
