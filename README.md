@@ -6,10 +6,8 @@ Este taller tiene como objetivo poner en práctica la declaración, inicializaci
 
 ## Equipo de trabajo
 
-| Integrante | Rol / Aportes |
-| --- | --- |
-| **Samuel Andrés Rúa Ocampo** | Creación del repositorio y estructura inicial de `Variables.java` |
-| **David Robinson Hernández** | Elaboración de la presentación, redacción del `README.md` y solución unificada de ecuaciones en Java |
+* **Samuel Andrés Rúa Ocampo:** Creación del repositorio y estructura inicial de `variables.java`.
+* **David Robinson Hernández:** Elaboración de la presentación, redacción del `README.md` y solución unificada de ecuaciones en Java.
 
 ## Presentación
 
