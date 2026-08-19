@@ -2,12 +2,14 @@ public class Variables {
 
     public static void main(String[] args) {
 
+        byte mes = 8;
+        short anio = 2026;
         int edad = 18;
         int cantidad = 10;
         int numero = 25;
 
         //Variables de tipo double
-        double precio = 2.000;
+        double precio = 2000.50;
         double altura = 1.80;
         double hora = 4.50;
         
@@ -40,6 +42,21 @@ public class Variables {
         altura = precio;
         nombre = ciudad;
 
+        mes = 12;
+        anio = 2027;
+        cantidad = 50;
+        hora = 8.30;
+        temperatura = 38.0f;
+        peso = 65.2f;
+        distancia = 10.4f;
+        poblacion = 60000000L;
+        dinero = 2000000000L;
+        estudiante = false;
+        profesor = true;
+        inicial = 'D';
+        genero = 'F';
+        grado = 'B';
+        carrera = "Ingenieria Ciencia De Datos";
 
 
     }
